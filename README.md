@@ -16,17 +16,18 @@ I'm a passionate **Data Analyst** exploring the world of data, visualizations, a
 ## 📂 Projects & Portfolio
 Here are some of my projects showcasing my analytical skills:
 
-1. **Customer Churn Prediction (Python + ML)**
-   - Predict customer churn for telecom companies using Logistic Regression & Random Forest.
-   - [View Project Repository](https://github.com/Rehaxl/Churn-Analysis-and-Prediction-Model)
+### 🔹 [Customer Churn Prediction (Python + ML)](https://github.com/PranavShintre2001/Churn-Analysis)  
+- Built a predictive model using **Logistic Regression & Random Forest**  
+- Achieved strong accuracy in identifying potential churn customers  
 
-2. **Aviation Flights Analysis (Python + EDA)**
-   - Analyzed 1000 aviation flight records for trends in airlines, routes, delays, and aircraft usage.
-   - [View Project Repository](https://github.com/Rehaxl/Aviation_Analysis_API)
+### 🔹 [Aviation Flights Analysis (Python + EDA)](https://github.com/PranavShintre2001/Aviation-Flight-Analysis)  
+- Analyzed **1,000 flight records** for trends in routes, delays, and aircraft usage  
+- Delivered actionable insights through **visualizations & reports**  
 
-3. **Uber Ride Analytics (Power BI + Python)**
-   - Insights from 148K Uber rides including cancellations, revenue, and vehicle usage.
-   - [View Project Repository](https://github.com/Rehaxl/Uber-Analysis-Power-BI)
+### 🔹 [Uber Ride Analytics (Power BI + Python)](https://github.com/PranavShintre2001/Uber-Analysis)  
+- Processed and visualized **148K ride records**  
+- Insights on **cancellations, revenue trends, and vehicle performance**  
+
 
 ---
 
@@ -42,9 +43,8 @@ Here are some of my projects showcasing my analytical skills:
 ## 📬 Connect with Me
 Let's connect and share insights!  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-url/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://www.instagram.com/your-instagram-url/)  
-[![Portfolio](https://img.shields.io/badge/-Projects-gray?style=flat&logo=github)](https://github.com/Rehaxl)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/pranav-shintre-3856562b8)  
+
 
 ---
 
